@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ⚡ My Statistics :
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DXH30/0953cbb8-f09f-4b7a-b4b2-77c3d01fa479.png" /></a>
-
+<a href="https://wakatime.com"><img width="50%" src="https://wakatime.com/share/@DXH30/0953cbb8-f09f-4b7a-b4b2-77c3d01fa479.png" /></a>
