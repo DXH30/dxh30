@@ -8,6 +8,6 @@ In my spare time, I like to contribute to open-source projects and attend tech m
 
 Feel free to check out my GitHub repositories to see some of my work, or connect with me on LinkedIn to chat about all things DevOps. Let's build some awesome systems together!
 
-⚡ My Statistics :
+### My Statistics ⚡
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@DXH30/0953cbb8-f09f-4b7a-b4b2-77c3d01fa479.png" /></a>
