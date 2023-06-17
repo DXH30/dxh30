@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Didik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxh30&show_icons=true&theme=radical)
+
 Hi there! I'm a DevOps Engineer with a passion for automation, infrastructure as code, and continuous delivery. I enjoy working on complex systems and optimizing the development pipeline to improve software delivery speed and quality.
 
 My experience includes designing and building scalable, fault-tolerant, and secure systems using AWS, Azure, and Google Cloud Platform. I'm also proficient in Docker, Kubernetes, Ansible, Terraform, Jenkins, and Git.
@@ -8,6 +10,8 @@ In my spare time, I like to contribute to open-source projects and attend tech m
 
 Feel free to check out my GitHub repositories to see some of my work, or connect with me on LinkedIn to chat about all things DevOps. Let's build some awesome systems together!
 
-### My Statistics ⚡
+### My Stats ⚡
 
-<a href="https://wakatime.com/@dxh30"><img src="https://wakatime.com/share/@DXH30/8357fea5-78d2-450c-8c8b-08f8ce3cade9.svg" style="border-radius:50%"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxh30&layout=compact&theme=radical)
+
+![Didik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DXH30&layout=compact&theme=radical)
