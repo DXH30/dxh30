@@ -10,4 +10,4 @@ Feel free to check out my GitHub repositories to see some of my work, or connect
 
 ### My Statistics ⚡
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DXH30/0953cbb8-f09f-4b7a-b4b2-77c3d01fa479.png" /></a>
+<a href="https://wakatime.com/@dxh30"><img src="https://wakatime.com/share/@DXH30/8357fea5-78d2-450c-8c8b-08f8ce3cade9.svg" style="border-radius:50%"/></a>
