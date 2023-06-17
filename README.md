@@ -12,4 +12,4 @@ Feel free to check out my GitHub repositories to see some of my work, or connect
 
 ### My Stats ⚡
 
-![Didik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DXH30&layout=compact&theme=radical)
+![Didik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DXH30&layout=compact&theme=dark)
