@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Didik's GitHub stats](https://github-readme-stats-gamma-one-64.vercel.app/api?username=dxh30&show_icons=false&theme=dark&hide_rank=true)
-
-
 Hi there! I'm a DevOps Engineer with a passion for automation, infrastructure as code, and continuous delivery. I enjoy working on complex systems and optimizing the development pipeline to improve software delivery speed and quality.
 
 My experience includes designing and building scalable, fault-tolerant, and secure systems using AWS, Azure, and Google Cloud Platform. I'm also proficient in Docker, Kubernetes, Ansible, Terraform, Jenkins, and Git.
