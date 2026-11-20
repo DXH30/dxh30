@@ -8,6 +8,14 @@ In my spare time, I like to contribute to open-source projects and attend tech m
 
 Feel free to check out my GitHub repositories to see some of my work, or connect with me on LinkedIn to chat about all things DevOps. Let's build some awesome systems together!
 
+### My certs 🪪 
+<a href="https://certdirectory.io/profile/didik-hadumi-setiaji?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/didik-hadumi-setiaji.svg?style=card&theme=dark">
+    <img alt="Didik Hadumi Setiaji on CertDirectory" src="https://certdirectory.io/badge/didik-hadumi-setiaji.svg?style=card">
+  </picture>
+</a>
+
 ### My Stats ⚡
 
 ![Didik's wakatime stats](https://github-readme-stats-gamma-one-64.vercel.app/api/wakatime?username=DXH30&layout=compact)
